@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51e1f45f-85a0-4214-98a3-60e012dc7e18" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ex2/max.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex2/writeMax.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai2/country.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vidu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/vidu.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,13 +55,26 @@
       <recent name="F:\modul2\fileIO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMaxValue">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="FindMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex2.FindMaxValue" />
       <module name="fileIO" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai2.Main" />
+      <module name="fileIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bai2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,6 +110,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FindMaxValue" />
         <item itemvalue="Application.totalSum" />
         <item itemvalue="Application.viDuTaoTapTinVaThuMuc" />
@@ -115,11 +127,22 @@
       <updated>1681223592414</updated>
       <workItem from="1681223593734" duration="3022000" />
       <workItem from="1681226826593" duration="603000" />
-      <workItem from="1681268317339" duration="8687000" />
+      <workItem from="1681268317339" duration="11822000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bai2/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

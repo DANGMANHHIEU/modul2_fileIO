@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="51e1f45f-85a0-4214-98a3-60e012dc7e18" name="Changes" comment="" />
+    <list default="true" id="51e1f45f-85a0-4214-98a3-60e012dc7e18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ex2/max.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex2/writeMax.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vidu.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex1/vidu.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OHhob5wCyzSNEBzYzFTH9Q4b1r" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,9 +39,72 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "F:/modul2/fileIO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\modul2\fileIO\src\ex2" />
+      <recent name="F:\modul2\fileIO\src\ex1" />
+      <recent name="F:\modul2\fileIO\src" />
+      <recent name="F:\modul2\fileIO" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FindMaxValue">
+    <configuration name="FindMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex2.FindMaxValue" />
+      <module name="fileIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="totalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1.totalSum" />
+      <module name="fileIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="viDuTaoTapTinVaThuMuc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="titv.viDuTaoTapTinVaThuMuc" />
+      <module name="fileIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="titv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindMaxValue" />
+        <item itemvalue="Application.totalSum" />
+        <item itemvalue="Application.viDuTaoTapTinVaThuMuc" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +113,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681223592414</updated>
+      <workItem from="1681223593734" duration="3022000" />
+      <workItem from="1681226826593" duration="603000" />
+      <workItem from="1681268317339" duration="8687000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
